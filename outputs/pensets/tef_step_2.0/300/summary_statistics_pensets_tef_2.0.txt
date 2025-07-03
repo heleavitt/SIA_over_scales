@@ -1,0 +1,17 @@
+
+#################################################################
+# Summary Statistics
+#################################################################
+
+DIC = 43.63433
+
+                                         Mean    SD  2.5%    5%   25%   50%
+p.global.bostrychia                     0.023 0.021 0.001 0.001 0.006 0.017
+p.global.CRAVIR                         0.141 0.077 0.008 0.018 0.080 0.140
+p.global.live mangrove leaves           0.519 0.054 0.415 0.433 0.482 0.520
+p.global.live spartina leaves and stems 0.318 0.043 0.231 0.245 0.288 0.318
+                                          75%   95% 97.5%
+p.global.bostrychia                     0.033 0.067 0.079
+p.global.CRAVIR                         0.197 0.268 0.291
+p.global.live mangrove leaves           0.555 0.608 0.630
+p.global.live spartina leaves and stems 0.349 0.388 0.399
